@@ -19,27 +19,13 @@
 
 ## 代码目录
 
-- [栈的封装](src/Stack/stack.js)
-- [队列的封装](src/Queue/queue.js)
-- [优先队列的封装](src/PriorityQueue/priorityQueue.js)
-- [单向链表的封装](src/LinkedList/linkedList.js)
-- [双向链表的封装](src/DoublyLinkedList/doublyLinkedList.js)
-- [集合的封装](src/Set/set.js)
-- [字典的封装](src/Map/map.js)
-- [哈希表的封装](src/HashTable/hashTable.js)
-- [二叉搜索树的封装](src/Tree/tree.js)
-- [图的封装](src/Graph/graph.js)
-
-### 安装依赖
-```bash
-npm install
-```
-
-### 启动服务
-```bash
-npm run start
-```
-
-
-
-
+- [栈的](src/Stack/stack.js)
+- [队列](src/Queue/queue.js)
+- [优先队列](src/PriorityQueue/priorityQueue.js)
+- [单向链表](src/LinkedList/linkedList.js)
+- [双向链表](src/DoublyLinkedList/doublyLinkedList.js)
+- [集合](src/Set/set.js)
+- [字典](src/Map/map.js)
+- [哈希表](src/HashTable/hashTable.js)
+- [二叉搜索树](src/Tree/tree.js)
+- [图](src/Graph/graph.js)
